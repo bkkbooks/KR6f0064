@@ -1,0 +1,620 @@
+canonical_identifier: bkk:krp/KR6f0064/T/v1
+canonical_location: https://kanripo.org/bkk/KR6f0064/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說大阿彌陀經
+  identifiers:
+    krp: KR6f0064
+    cbeta: T12n0364
+    cbeta_old_id: T12n0364
+    authorityid: CA0000528
+    json_key: T0364
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0364.xml
+    old_id: T12n0364
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0064_000-T.yaml, hash: 'sha256:0981335a6002322315718ea1f3b934300c894d7a96f98952202f1911185a57a2'}
+  - {seq: 1, filename: KR6f0064_001-T.yaml, hash: 'sha256:550e5dbdb2ec3b9c6ab769c0ab71af09a4ef4d492d7ec559d1cbfef467e5d26f'}
+  - {seq: 2, filename: KR6f0064_002-T.yaml, hash: 'sha256:b3329f4c48ee718fe1ab728e969903e7ae2e744c13a81dadc6b59a7bbccd964f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0064_000-T.markers.yaml, hash: 'sha256:86a03555e9674379b7c31c49e3569fbe7100959e23f3cbee68b8346e7f06a25c'}
+  - {seq: 1, role: markers, filename: assets/KR6f0064_001-T.markers.yaml, hash: 'sha256:4d69d789785ab2c169fe0b26fe6a98cf911203a225084bb85be78fba5f8f9abc'}
+  - {seq: 2, role: markers, filename: assets/KR6f0064_002-T.markers.yaml, hash: 'sha256:5de40898b27ab8d3616b19664fe253b9f5263f6fe2a6a0a221d57e905e40987a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6f0064_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7343
+  label: 佛說大阿彌陀經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 1 法會大眾分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-2
+    span:
+    - body
+    - 191
+    - 191
+  label: 2 阿難發問分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-3
+    span:
+    - body
+    - 460
+    - 460
+  label: 3 五十三佛分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-4
+    span:
+    - body
+    - 869
+    - 869
+  label: 4 法藏本因分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-5
+    span:
+    - body
+    - 1213
+    - 1213
+  label: 5 大願問佛分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-6
+    span:
+    - body
+    - 1476
+    - 1476
+  label: 6 四十八願分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-7
+    span:
+    - body
+    - 3901
+    - 3901
+  label: 7 願後說偈分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-8
+    span:
+    - body
+    - 4144
+    - 4144
+  label: 8 初修善行分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-9
+    span:
+    - body
+    - 4493
+    - 4493
+  label: 9 親近諸佛分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-10
+    span:
+    - body
+    - 4670
+    - 4670
+  label: 10 願成作佛分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-11
+    span:
+    - body
+    - 4828
+    - 4828
+  label: 11 蜎蠕亦度分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-12
+    span:
+    - body
+    - 4958
+    - 4958
+  label: 12 光明獨勝分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-13
+    span:
+    - body
+    - 5166
+    - 5166
+  label: 13 十三佛號分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-14
+    span:
+    - body
+    - 5458
+    - 5458
+  label: 14 阿闍世王分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-15
+    span:
+    - body
+    - 5621
+    - 5621
+  label: 15 地平氣和分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-16
+    span:
+    - body
+    - 5867
+    - 5867
+  label: 16 講堂宅宇分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-17
+    span:
+    - body
+    - 6152
+    - 6152
+  label: 17 寶池大小分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-18
+    span:
+    - body
+    - 6472
+    - 6472
+  label: 18 蓮華化生分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-19
+    span:
+    - body
+    - 6568
+    - 6568
+  label: 19 𠣏者比類分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-20
+    span:
+    - body
+    - 6869
+    - 6869
+  label: 20 澡雪形體分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0064_T_001-mulu-21
+    span:
+    - body
+    - 7116
+    - 7116
+  label: 21 澡畢進業分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9983
+  label: 佛說大阿彌陀經卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 22 池流法音分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-2
+    span:
+    - body
+    - 222
+    - 222
+  label: 23 池岸花樹分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-3
+    span:
+    - body
+    - 493
+    - 493
+  label: 24 樹音妙樂分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-4
+    span:
+    - body
+    - 651
+    - 651
+  label: 25 自然飲食分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-5
+    span:
+    - body
+    - 819
+    - 819
+  label: 26 景象殊勝分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-6
+    span:
+    - body
+    - 1123
+    - 1123
+  label: 27 道場寶樹分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-7
+    span:
+    - body
+    - 1502
+    - 1502
+  label: 28 寶網音香分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-8
+    span:
+    - body
+    - 1687
+    - 1687
+  label: 29 蓮花現佛分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-9
+    span:
+    - body
+    - 1824
+    - 1824
+  label: 30 大會說法分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-10
+    span:
+    - body
+    - 2151
+    - 2151
+  label: 31 十方聽法分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-11
+    span:
+    - body
+    - 2590
+    - 2590
+  label: 32 觀音發問分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-12
+    span:
+    - body
+    - 2842
+    - 2842
+  label: 33 菩薩出供分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-13
+    span:
+    - body
+    - 3057
+    - 3057
+  label: 34 菩薩功德分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-14
+    span:
+    - body
+    - 3574
+    - 3574
+  label: 35 泥洹去者分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-15
+    span:
+    - body
+    - 3891
+    - 3891
+  label: 36 光明大小分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-16
+    span:
+    - body
+    - 4179
+    - 4179
+  label: 37 恩德無窮分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-17
+    span:
+    - body
+    - 4322
+    - 4322
+  label: 38 佛壽人數分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-18
+    span:
+    - body
+    - 4525
+    - 4525
+  label: 39 遞次作佛分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-19
+    span:
+    - body
+    - 4707
+    - 4707
+  label: 40 佛智無極分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-20
+    span:
+    - body
+    - 5069
+    - 5069
+  label: 41 獨無須彌分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-21
+    span:
+    - body
+    - 5249
+    - 5249
+  label: 42 十方稱讚分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-22
+    span:
+    - body
+    - 5422
+    - 5422
+  label: 43 三輩往生分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-23
+    span:
+    - body
+    - 5750
+    - 5750
+  label: 44 必修十善分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-24
+    span:
+    - body
+    - 5958
+    - 5958
+  label: 45 復有三等分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-25
+    span:
+    - body
+    - 6128
+    - 6128
+  label: 46 一生補佛分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-26
+    span:
+    - body
+    - 6346
+    - 6346
+  label: 47 大會寶池分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-27
+    span:
+    - body
+    - 6484
+    - 6484
+  label: 48 世人極苦分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-28
+    span:
+    - body
+    - 6738
+    - 6738
+  label: 49 五道昭明分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-29
+    span:
+    - body
+    - 6889
+    - 6889
+  label: 50 壽數隨意分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-30
+    span:
+    - body
+    - 7252
+    - 7252
+  label: 51 八端檢束分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-31
+    span:
+    - body
+    - 7493
+    - 7493
+  label: 52 眾見佛相分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-32
+    span:
+    - body
+    - 7845
+    - 7845
+  label: 53 疑城胎生分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-33
+    span:
+    - body
+    - 8231
+    - 8231
+  label: 54 菩薩往生分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-34
+    span:
+    - body
+    - 8707
+    - 8707
+  label: 55 聞法因緣分
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0064_T_002-mulu-35
+    span:
+    - body
+    - 8948
+    - 8948
+  label: 56 正法難聞分
+  type: mulu
+  level: 1
+hash: sha256:91a7690ed00c5c11fb8639976e71f7b928d76ed94355f908c57a58dfd4b4a23d
